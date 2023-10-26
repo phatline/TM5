@@ -1,0 +1,17 @@
+
+perl fnt_BIG_conv.pl fnt_BIG.xpm -icons 16 -height 16
+
+perl fnt_CV_conv.pl fnt_CV.xpm -icons 16 -height 16
+
+perl fnt_BOLD_conv.pl fnt_BOLD.xpm -icons 16 -height 8
+
+perl fnt_SYM_conv.pl fnt_SYM.xpm -icons 16 -height 16
+
+
+
+wichtig ist das Indizierte 2 Farben xpm datei von gimp exportiert wird!
+
+
+und am ENDE der Datei 
+};
+einfügen!!!!!!
